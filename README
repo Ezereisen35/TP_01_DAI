@@ -1,0 +1,4 @@
+1)Clonar el repositorio
+2)Instalar las dependencias necesarias ejecutando el comando npm i
+3)Copiar el archivo sql y ejecutarlo en un script en sql server para correr la base de datos
+4)Y por último navegar por los endpoints explorando el programa:)
